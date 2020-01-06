@@ -1,0 +1,25 @@
+@charset "utf-8";
+#heading {
+    font-family: cookie;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: xx-large;
+    text-align: right;
+    text-decoration: none;
+    text-shadow: 0px 2px 5px #FFFFFF;
+    text-transform: none;
+    list-style-image: none;
+    /* [disabled]background-color: #FFFFFF; */
+}
+
+body {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    text-shadow: 0px 0px;
+    text-align: center;
+    font-size: x-large;
+	
+}
